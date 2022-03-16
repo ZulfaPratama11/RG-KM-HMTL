@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 80%;
+    margin: auto;
+}
+table{
+    width: 80%;
+    border-radius: 10px;
+}
+.header{
+    color: blueviolet;
+}
+th, td{
+    border: none;
+    /* border-radius: 20px; */
+}
+#kotak{
+    border-right: 1px solid black;
+    border-radius: none;
+}
+#kotak, #kotak1{
+    background-color: bisque;
+}
+.judul{
+    border-radius: 5px;
+}
+#tabel{
+    background-color: dodgerblue;
+    color: white;
+}
+.footer{
+    color: coral;
+}
